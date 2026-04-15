@@ -1,0 +1,34 @@
+{
+  "gf_safe": {
+    "name": "定制古风",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "noise": "native",
+    "smea": true,
+    "variety": false,
+    "suffix": "masterpiece, best quality, ultra detailed, highres, 8k, exquisite illustration, oriental aesthetics, classical chinese art style, extremely beautiful girl, handsome boy, perfect face, highly detailed face, symmetrical eyes, black eyes, traditional chinese hair ornament, golden hairpin, buyao, jade hair crown, high updo, dynamic pose, anatomically correct, elegant posture, fully clothed, neat clothing, (qixiong ruqun:1.2), hezi, wide sleeves, flowing silk ribbon, (yuanlingpao:1.1), ancient chinese imperial palace, traditional chinese architecture, wooden structure, carved windows, screen painting, palace garden, blooming peony, palace lantern, cinematic lighting, volumetric lighting, poetic atmosphere, breathtaking",
+    "neg": "nsfw, nude, exposed skin, cleavage, bare shoulders, lowres, worst quality, low quality, bad anatomy, bad hands, missing fingers, extra digits, extra limbs, bad proportions, stiff pose, deformed, photorealistic, realistic, 3d, western style, western architecture, western castle, roman pillars, chandelier, western crown, tiara, anime style, japanese manga, blue eyes, light colored eyes, western clothing, japanese clothing, kimono, modern, loli, shota, child, childlike, baby face, (song dynasty dudou:1.5), (ming dynasty dudou:1.5), animal patch on chest, text, watermark"
+  },
+  "gf_nsfw": {
+    "name": "极乐模式",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6.5,
+    "noise": "karras",
+    "smea": true,
+    "variety": false,
+    "suffix": "masterpiece, best quality, ultra detailed, highres, 8k, exquisite illustration, oriental aesthetics, classical chinese art style, dynamic angle, extremely beautiful girl, handsome boy, perfect face, highly detailed face, intense emotion, black eyes, traditional chinese hair ornament, golden hairpin, buyao, jade hair crown, high updo, dynamic pose, anatomically correct, nsfw, passionate intimate interaction, completely nude, hairless pussy, detailed pussy, completely bare pubic area, shaved, penetration, bodily fluids, discarded clothes on floor, (qixiong ruqun:1.2), hezi, wide sleeves, flowing silk ribbon, (yuanlingpao:1.1), ancient chinese imperial palace, luxurious ancient bedroom, carved wooden bed, red silk curtains, palace lantern, cinematic lighting, volumetric lighting, breathtaking",
+    "neg": "lowres, worst quality, low quality, bad anatomy, bad hands, missing fingers, extra digits, extra limbs, bad proportions, stiff pose, deformed, photorealistic, realistic, 3d, western style, western architecture, western castle, roman pillars, chandelier, western crown, tiara, anime style, japanese manga, blue eyes, light colored eyes, western clothing, japanese clothing, kimono, modern, loli, shota, child, childlike, baby face, (song dynasty dudou:1.5), (ming dynasty dudou:1.5), animal patch on chest, pubic hair, body hair, mosaic, censorship, bar censor, text, watermark"
+  },
+  "c_1776238167134": {
+    "name": "3D仙侠",
+    "suffix": "15::best quality, masterpiece, ultra-detailed, 8k, highres ::, 4::3D, realistic, photorealistic, Unreal Engine 5, Octane Render, Ray tracing, Global illumination, PBR, Subsurface scattering, Skin pores, Vellus hair, Microdisplacement ::, 1.8::Artist:ruanjia ::, 1.5::Artist:WLOP ::, 1.2::Artist:bm94199 ::, -5::2D ::,\n\n(Sui and Tang Dynasty style:1.4), (Imperial Palace Bedchamber:1.4), (Ornate red pillars), (Golden dragon carvings), (Luxurious silk curtains), (Dim warm candlelight), (Flickering shadows), (Incense smoke), (Polished floor with reflections),\n\n{1boy, (handsome man:1.3), (emperor:1.2), (adult:1.2), (masculine features), (strong build), (defined muscles), (long jet black hair:1.5), (ancient Chinese hair style:1.4), (elaborate hair crown:1.2), (dark brown eyes:1.4), (erect massive penis), (veins on penis), (pre-cum), (naked)},\n\n{1girl, (beautiful woman:1.3), (imperial concubine:1.2), (adult:1.2), (perfect face:1.3), (long jet black hair:1.5), (elaborate high hair bun), (dark brown eyes:1.4), (pale skin), (voluptuous body), (large breasts), (heavy breathing), (sweat drops), (glistening skin:1.3), (torn Tang dynasty silk robe:1.4), (messy clothes), (naked:1.3), (completely uncensored), (detailed vulva), (spread legs), (wetness)},\n\n(intense sexual tension:1.5), (climax), (creampie), (shimmering fluids), (intricate anatomy), (perfect hands:1.3), (5 fingers:1.3), (correct anatomy:1.3), (natural pose:1.2), (huge size difference:1.3), (cinematic lighting), (depth of field), (rim light)",
+    "neg": "blue eyes, light eyes, green eyes, old, elderly, child, loli, shota, toddler, infant, immature, teenager, ugly, deformed, mutated, extra limbs, extra fingers, fused fingers, missing fingers, bad anatomy, bad hands, malformed limbs, disfigured, blurry, low quality, worst quality, normal quality, text, watermark, signature, username, error, messy lineart, sketch, 2D, anime, cartoon, flat shading, amputation, asymmetrical eyes, short hair for man.",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6.5,
+    "smea": false,
+    "variety": false
+  }
+}
